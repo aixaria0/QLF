@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "QFL",
+      "hasCanvas": false,
+      "bodyTextLen": 2394,
+      "bodyTextHash": "4159989b86ddf0e93658ca24fae7ba64818eb841a26fbe3c07e60aecb8693bc4",
+      "bodyTextPrefix": "FORMAL CONSENSUS WORKBENCH QFL Annotated TLA+, proof obligations",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "QFL",
+      "hasCanvas": false,
+      "bodyTextLen": 2244,
+      "bodyTextHash": "9e89eed265fb541b23a857bf39b1d15ad5729fe6f8524819d5d8eedf86653d05",
+      "bodyTextPrefix": "FORMAL CONSENSUS WORKBENCH QFL Raft Paxos Multi-Paxos Mapping By",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
